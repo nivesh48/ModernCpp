@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/raid5/gadipudn/capture_stuff/ModernCpp/build_tools/linking/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/tools.dir/some_file.cpp.o -c /mnt/raid5/gadipudn/capture_stuff/ModernCpp/build_tools/linking/some_file.cpp",
+  "file": "/mnt/raid5/gadipudn/capture_stuff/ModernCpp/build_tools/linking/some_file.cpp"
+},
+{
+  "directory": "/mnt/raid5/gadipudn/capture_stuff/ModernCpp/build_tools/linking/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/main.dir/main.cpp.o -c /mnt/raid5/gadipudn/capture_stuff/ModernCpp/build_tools/linking/main.cpp",
+  "file": "/mnt/raid5/gadipudn/capture_stuff/ModernCpp/build_tools/linking/main.cpp"
+}
+]
